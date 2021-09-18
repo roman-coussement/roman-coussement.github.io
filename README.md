@@ -3,17 +3,17 @@ This repository is made up of a collection of projects, small and large, that I'
 </br>
 </br>
 It's purpose is to demonstrate a well-rounded knowledge of some of the fundamental skills and abilities involved in undertaking any applied statistics/data science-related project. In the case of this portfolio, these include:
-1.  **Maths and Statistics** - The purpose of this section is to demonstrate a working knowledge of the branches of mathematics most relevant to data science. This will primarily be done through explanatory notebooks relating to specific concepts and operations; these notebooks will provide some theoretical background, and then formalise the topic at hand through the means of Python scripts and functions.
+1.  **Maths and Statistics** - the purpose of this section is to demonstrate a working knowledge of the branches of mathematics most relevant to data science. This will primarily be done through explanatory notebooks relating to specific concepts and operations; these notebooks will provide some theoretical background, and then formalise the topic at hand through the means of Python scripts and functions.
       - Linear algebra
       - Probability theory
       - Calculus 
-2. **Causal Inference, Machine Learning, and Other Modelling**
-   - Regression
-   - Classification
-   - Clustering
-   - Dimensionality reduction
-   - Ensemble methods
-3. **Exploratory Data Analysis and Data Visualisation**
+2. **Causal Inference, Machine Learning, and Other Modelling** - this section contains a number of data science projects that demonstrate proficiency in the application of a number of different causal inference methods and machine learning algorithms.
+      - Regression
+      - Classification
+      - Clustering
+      - Dimensionality reduction
+      - Ensemble methods
+3. **Data Visualisation and Exploratory Data Analysis** - the notebooks contained under this header are intended tod demonstrate a number of the key skills involved in most any data science project: data cleaning, wrangling, exploratory data anaylsis, and data visualisation. Each notebook will be motivated by a particular 'theme' within data visualisation, structured according to Clause Wilke's [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/).
 ## Maths and Statistics
 ### Linear Algebra
 ## Causal Inference, Machine Learning, and Other Modelling
