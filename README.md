@@ -3,23 +3,23 @@ This repository is made up of a collection of projects produced either as part o
 </br>
 </br>
 It's purpose is to demonstrate a well-rounded knowledge of some of the fundamental skills and abilities involved in undertaking any applied statistics/data science-related project. In the case of this portfolio, these include:
-1.  **Maths and Statistics** - the purpose of this section is to demonstrate a working knowledge of the branches of mathematics most relevant to data science. This will primarily be done through explanatory notebooks relating to specific concepts and operations; these notebooks will provide some theoretical background, and then formalise the topic at hand through the means of Python scripts and functions.
-      - Linear algebra
-      - Probability theory
-      - Calculus 
+
 2. **Causal Inference, Machine Learning, and Other Modelling** - this section contains a number of data science projects that demonstrate proficiency in the application of a number of different causal inference methods and machine learning algorithms.
       - Regression
       - Classification
       - Clustering
       - Dimensionality reduction
       - Ensemble methods
-3. **Data Visualisation and Exploratory Data Analysis** - the notebooks contained under this header are intended tod demonstrate a number of the key skills involved in most any data science project: data cleaning, wrangling, exploratory data anaylsis, and data visualisation. Each notebook will be motivated by a particular 'theme' within data visualisation, structured according to Clause Wilke's [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/).
+2. **Data Visualisation and Exploratory Data Analysis** - the notebooks contained under this header are intended tod demonstrate a number of the key skills involved in most any data science project: data cleaning, wrangling, exploratory data anaylsis, and data visualisation. Each notebook will be motivated by a particular 'theme' within data visualisation, structured according to Clause Wilke's [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/).
       - Amounts and distributions
       - Proportions
       - Associations/correlations
       - Geospatial data
-## Maths and Statistics
-### Linear Algebra
+3.  **Maths and Statistics** - the purpose of this section is to demonstrate a working knowledge of the branches of mathematics most relevant to data science. This will primarily be done through explanatory notebooks relating to specific concepts and operations; these notebooks will provide some theoretical background, and then formalise the topic at hand through the means of Python scripts and functions.
+      - Linear algebra
+      - Probability theory
+      - Calculus 
+
 ## Causal Inference, Machine Learning, and Other Modelling
 ### Regression
 * [OLS Regression](https://github.com/roman-coussement/quantiative-methods-project) - using ordinary least squares regression to investigate a potential causal effect of           the legalisation of recreational cannabis in US states on traffic- and suicide-related fatalities.
@@ -27,3 +27,5 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 ## Exploratory Data Analysis and Visualisation
 ### Amounts and distributions
 * [House Price EDA](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/house-price-eda.ipynb) - data exploration and visualisation of an extensive dataset for house price prediction.
+## Maths and Statistics
+### Linear Algebra
