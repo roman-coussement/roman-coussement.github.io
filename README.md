@@ -21,7 +21,7 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 ## Maths and Statistics
 ### Linear Algebra
 ## Causal Inference, Machine Learning, and Other Modelling
-1. Regression
+### Regression
       - [OLS Regression](https://github.com/roman-coussement/quantiative-methods-project) - using ordinary least squares regression to investigate a potential causal effect of           the legalisation of recreational cannabis in US states on traffic- and suicide-related fatalities.
-2. Classification
+### Classification
 ## Exploratory Data Analysis and Visualisation
