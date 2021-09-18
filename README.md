@@ -4,7 +4,7 @@ This repository is made up of a collection of projects produced either as part o
 </br>
 It's purpose is to demonstrate a well-rounded knowledge of some of the fundamental skills and abilities involved in undertaking any applied statistics/data science-related project. In the case of this portfolio, these include:
 
-2. **Causal Inference, Machine Learning, and Other Modelling** - this section contains a number of data science projects that demonstrate proficiency in the application of a number of different causal inference methods and machine learning algorithms.
+1. **Causal Inference, Machine Learning, and Other Modelling** - this section contains a number of data science projects that demonstrate proficiency in the application of a number of different causal inference methods and machine learning algorithms.
       - Regression
       - Classification
       - Clustering
