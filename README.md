@@ -14,11 +14,14 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
       - Dimensionality reduction
       - Ensemble methods
 3. **Data Visualisation and Exploratory Data Analysis** - the notebooks contained under this header are intended tod demonstrate a number of the key skills involved in most any data science project: data cleaning, wrangling, exploratory data anaylsis, and data visualisation. Each notebook will be motivated by a particular 'theme' within data visualisation, structured according to Clause Wilke's [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/).
-      - Visualising amounts and distributions
-      - Visualising proportions
-      - Visualising associations/correlations
-      - Visualising geospatial data
+      - Amounts and distributions
+      - Proportions
+      - Associations/correlations
+      - Geospatial data
 ## Maths and Statistics
 ### Linear Algebra
 ## Causal Inference, Machine Learning, and Other Modelling
+1. Regression
+      - [OLS Regression](https://github.com/roman-coussement/quantiative-methods-project) - using ordinary least squares regression to investigate a potential causal effect of           the legalisation of recreational cannabis in US states on traffic- and suicide-related fatalities.
+2. Classification
 ## Exploratory Data Analysis and Visualisation
