@@ -4,9 +4,9 @@ This repository is made up of a collection of projects, small and large, that I'
 </br>
 It's purpose is to demonstrate a well-rounded knowledge of some of the fundamental skills and abilities involved in undertaking any applied statistics/data science-related project. In the case of this portfolio, these include:
 1.  **Maths and Statistics** - The purpose of this section is to demonstrate a working knowledge of the branches of mathematics most relevant to data science. This will primarily be done through explanatory notebooks relating to specific concepts and operations; these notebooks will provide some theoretical background, and then formalise the topic at hand through the means of Python scripts and functions.
-   - Linear algebra
-   - Probability theory
-   - Calculus 
+      - Linear algebra
+      - Probability theory
+      - Calculus 
 2. **Causal Inference, Machine Learning, and Other Modelling**
    - Regression
    - Classification
