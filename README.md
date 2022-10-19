@@ -31,3 +31,5 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 ### Linear Algebra
 * [Matrix Multiplication](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/matrix-multiplication.ipynb) - an overview of matrix multiplication alongside the construction of Python functions for carrying it out.
 * [Matrix Inversion](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/matrix-inversion.ipynb) - a brief discussion of matrix inversion and related topics, with accompanying Python functions.
+
+# Engineering/Development Portfolio (Java, C++)
