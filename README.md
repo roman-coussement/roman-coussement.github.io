@@ -34,4 +34,7 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 ### Calculus
 * [Derivative calculator](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/tangent-slope-calculator.ipynb) - a simple function to approximate the slope of a tangen, for a given function and point of evaluation, based on the formula for the limit of a derivative.
 
+### Probability
+* Coin Toss Probability Approximation
+
 # Engineering/Development Portfolio (Java, C++)
