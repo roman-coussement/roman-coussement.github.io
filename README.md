@@ -35,6 +35,6 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 * [Derivative calculator](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/tangent-slope-calculator.ipynb) - a simple function to approximate the slope of a tangen, for a given function and point of evaluation, based on the formula for the limit of a derivative.
 
 ### Probability
-* Coin Toss Probability Approximation
+* [Coin Toss Probability Approximation](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/coin-toss-prob-approx.ipynb) - this program simulates a coin toss experiment with a large sample size, calculates the cumulative probability of a given outcome, and visualises the result over the entirety of the sample.
 
 # Engineering/Development Portfolio (Java, C++)
