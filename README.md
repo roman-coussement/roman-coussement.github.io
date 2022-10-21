@@ -24,6 +24,7 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 ### Regression
 * [OLS Regression](https://github.com/roman-coussement/quantiative-methods-project) - using ordinary least squares regression to investigate a potential causal effect of           the legalisation of recreational cannabis in US states on traffic- and suicide-related fatalities.
 ### Classification
+* [Quadratic Discriminant Analysis (QDA)](https://github.com/roman-coussement/dsm-project) - using QDA for the predictive classification of employees into a set of performance review categories, based on a set of endogenous attributes.
 ## Exploratory Data Analysis and Visualisation
 ### Amounts and distributions
 * [House Price EDA](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/house-price-eda.ipynb) - data exploration and visualisation of an extensive dataset for house price prediction.
