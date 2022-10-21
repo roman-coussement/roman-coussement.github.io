@@ -1,5 +1,5 @@
 # Quantitative & Data Science Portfolio (Python & R)
-This repository is made up of a collection of projects produced either as part of my undergraduate degree or through self-study. It's made up primarily of iPython Notebooks, but also contains some R scripts, RMarkdown files, and other files relating to the given work (e.g. datasets, PDF files, an so on).
+This section of the repository is made up of a collection of projects produced either as part of my undergraduate degree or through self-study. It's made up primarily of iPython Notebooks, but also contains some R scripts, RMarkdown files, and other files relating to the given work (e.g. datasets, PDF files, an so on).
 </br>
 </br>
 It's purpose is to demonstrate a well-rounded knowledge of some of the fundamental skills and abilities involved in undertaking any applied statistics/data science-related project. In the case of this portfolio, these include:
