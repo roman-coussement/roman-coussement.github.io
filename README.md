@@ -30,7 +30,11 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 ## Exploratory Data Analysis and Visualisation
 ### Amounts and distributions
 * [House Price EDA](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/house-price-eda.ipynb) - data exploration and visualisation of an extensive dataset for house price prediction.
-## Maths and Statistics
+
+### Proportions
+### Correlation & Association
+### Geospatial Data
+## Maths & Statistics
 ### Linear Algebra
 * [Matrix Multiplication](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/matrix-multiplication.ipynb) - an overview of matrix multiplication alongside the construction of Python functions for carrying it out.
 * [Matrix Inversion](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/matrix-inversion.ipynb) - a brief discussion of matrix inversion and related topics, with accompanying Python functions.
