@@ -28,6 +28,7 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 ### Unsupervised Learning Techniques
 * [Principal Component Analysis (PCA)](https://github.com/roman-coussement/dsm-project) - using PCA as a means of feature selection as part of a broader research project.
 ### Resampling Methods
+* [K-fold Cross Validation]
 ## Exploratory Data Analysis and Visualisation
 ### Amounts and distributions
 * [House Price EDA](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/house-price-eda.ipynb) - data exploration and visualisation of an extensive dataset for house price prediction.
