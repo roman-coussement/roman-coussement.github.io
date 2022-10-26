@@ -39,6 +39,7 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 * [Traffic & Suicide Fatality Rate by US State](https://github.com/roman-coussement/quantiative-methods-project/blob/main/write_up_rmd.pdf) - Figures 1 and 2 of the document contain visual representations of the number of suicides and traffic fatalities per 100,000 of the population across all 50 US states plus the District of Columbia.
 ## Maths & Statistics
 ### Linear Algebra
+* Basic Matrix Operations - a set of three Python functions corresponding to simple operations on matrices that correspond to standard number operations: matrix addition, matrix subtraction, and scalar multiplication.
 * [Matrix Multiplication](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/matrix-multiplication.ipynb) - an overview of matrix multiplication alongside the construction of Python functions for carrying it out.
 * [Matrix Inversion](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/matrix-inversion.ipynb) - a brief discussion of matrix inversion and related topics, with accompanying Python functions.
 ### Calculus
