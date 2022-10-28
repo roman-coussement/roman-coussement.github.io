@@ -37,6 +37,9 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 ### Correlation & Association
 ### Geospatial Data
 * [Traffic & Suicide Fatality Rate by US State](https://github.com/roman-coussement/quantiative-methods-project/blob/main/write_up_rmd.pdf) - Figures 1 and 2 of the document contain visual representations of the number of suicides and traffic fatalities per 100,000 of the population across all 50 US states plus the District of Columbia.
+
+
+
 ## Maths & Statistics
 ### Linear Algebra
 * [Basic Matrix Operations](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/basic-matrix-operations.ipynb) - a set of three Python functions corresponding to simple operations on matrices that correspond to standard number operations: matrix addition, matrix subtraction, and scalar multiplication.
