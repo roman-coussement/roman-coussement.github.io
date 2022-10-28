@@ -44,7 +44,7 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 ### Linear Algebra
 * [Basic Matrix Operations](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/basic-matrix-operations.ipynb) - a set of three Python functions corresponding to simple operations on matrices that correspond to standard number operations: matrix addition, matrix subtraction, and scalar multiplication.
 * [Matrix Multiplication](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/matrix-multiplication.ipynb) - an overview of matrix multiplication alongside the construction of Python functions for carrying it out.
-* [Matrix Inversion](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/matrix-inversion.ipynb) - a brief discussion of matrix inversion and related topics, with accompanying Python functions.
+* [Matrix Determinant & Inversion](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/matrix-inversion.ipynb) - a brief discussion of matrix inversion and related topics, with accompanying Python functions.
 * Special Matrices - a series of functions used to generate various special and interesting cases of matrices.
 ### Calculus
 * [Derivative Calculator](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/tangent-slope-calculator.ipynb) - a simple function to approximate the slope of a tangen, for a given function and point of evaluation, based on the formula for the limit of a derivative.
