@@ -45,11 +45,14 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 * [Basic Matrix Operations](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/basic-matrix-operations.ipynb) - a set of three Python functions corresponding to simple operations on matrices that correspond to standard number operations: matrix addition, matrix subtraction, and scalar multiplication.
 * [Matrix Multiplication](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/matrix-multiplication.ipynb) - an overview of matrix multiplication alongside the construction of Python functions for carrying it out.
 * [Matrix Determinant & Inversion](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/matrix-inversion.ipynb) - a brief discussion of matrix inversion and related topics, with accompanying Python functions.
-* Special Matrices - a series of functions used to generate various special and interesting cases of matrices.
+* Special Matrices - a series of functions used to generate various special and interesting cases of matrices. In particular, this notebook considers the square, column, row, diagonal, upper-triangle, lower-triangle, symmetric, idempotent, permutation, and non-singular matrices.
 ### Calculus
 * [Derivative Calculator](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/tangent-slope-calculator.ipynb) - a simple function to approximate the slope of a tangen, for a given function and point of evaluation, based on the formula for the limit of a derivative.
 
 ### Probability
 * [Coin Toss Probability Approximation](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/coin-toss-prob-approx.ipynb) - this program simulates a coin toss experiment with a large sample size, calculates the cumulative probability of a given outcome, and visualises the result over the entirety of the sample.
 * Central Limit Theorem Demonstration
+
+
+
 # Engineering/Development Portfolio (Java, C++)
