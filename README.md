@@ -35,6 +35,7 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 
 ### Proportions
 ### Correlation & Association
+* [Relationship between Traffic & Suicide Fatality Rate and Various Independent Variables](https://github.com/roman-coussement/quantiative-methods-project/blob/main/write_up_rmd.pdf) - Figures 3 and 4 of the document contain visual representations of traffic and suicide fatality rates and their correlation to a number of variables (population density, lane density, licensed drivers, available hospitals).
 ### Geospatial Data
 * [Traffic & Suicide Fatality Rate by US State](https://github.com/roman-coussement/quantiative-methods-project/blob/main/write_up_rmd.pdf) - Figures 1 and 2 of the document contain visual representations of the number of suicides and traffic fatalities per 100,000 of the population across all 50 US states plus the District of Columbia.
 
