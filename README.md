@@ -10,7 +10,7 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
       - Clustering
       - Dimensionality reduction
       - Ensemble methods
-2. **Data Visualisation & Exploratory Data Analysis** - the notebooks contained under this header are intended tod demonstrate a number of the key skills involved in most any data science project: data cleaning, wrangling, exploratory data anaylsis, and data visualisation. Each notebook will be motivated by a particular 'theme' within data visualisation, structured according to Clause Wilke's [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/).
+2. **Data Visualisation & Exploratory Data Analysis** - notebooks contained under this header are intended tod demonstrate a number of the key skills involved in most any data science project: data cleaning, wrangling, exploratory data anaylsis, and data visualisation. Each notebook will be motivated by a particular 'theme' within data visualisation, structured according to Clause Wilke's [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/).
       - Amounts and distributions
       - Proportions
       - Associations/correlations
