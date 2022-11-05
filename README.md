@@ -56,7 +56,7 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 
 
 
-# Engineering/Development Portfolio (C++, Java, Python)
+# Engineering/Development Portfolio
 ## C++
 ## Java
 * Currency Converter - a simple program that allows the user to select between various currencies and convert a given value between them.
