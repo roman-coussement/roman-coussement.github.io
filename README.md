@@ -61,3 +61,4 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 ## Java
 * Currency Converter - a simple program that allows the user to select between various currencies and convert a given value between them.
 ## Python
+* Webscraper - a program that automatically collects and processes data from a given website into a .csv file.
