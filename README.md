@@ -54,12 +54,3 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 ### Probability
 * [Coin Toss Probability Approximation](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/coin-toss-prob-approx.ipynb) - this program simulates a coin toss experiment with a large sample size, calculates the cumulative probability of a given outcome, and visualises the result over the entirety of the sample.
 * Central Limit Theorem Demonstration
-
-
-
-# Engineering/Development Portfolio
-## C++
-## Java
-* Currency Converter - a simple program that allows the user to select between various currencies and convert a given value between them.
-## Python
-* Webscraper - a program that automatically collects and processes data from a given website into a .csv file.
