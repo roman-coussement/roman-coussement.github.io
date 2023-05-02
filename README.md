@@ -49,7 +49,7 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 * [Matrix Determinant & Inversion](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/matrix-inversion.ipynb) - a brief discussion of matrix inversion and related topics, with accompanying Python functions.
 * [Special Matrices (WIP)](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/v2.ipynb) - a series of functions used to generate various special and interesting cases of matrices. In particular, this notebook considers the square, column, row, diagonal, upper-triangle, lower-triangle, symmetric, idempotent, permutation, and non-singular matrices.
 ### Calculus
-* [Derivative Calculator](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/tangent-slope-calculator.ipynb) - a simple function to approximate the slope of a tangen, for a given function and point of evaluation, based on the formula for the limit of a derivative.
+* [Derivative Calculator](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/tangent-slope-calculator.ipynb) - a simple function to approximate the slope of a tangent, for a given function and point of evaluation, based on the formula for the limit of a derivative.
 
 ### Probability
 * [Coin Toss Probability Approximation](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/coin-toss-prob-approx.ipynb) - this program simulates a coin toss experiment with a large sample size, calculates the cumulative probability of a given outcome, and visualises the result over the entirety of the sample.
