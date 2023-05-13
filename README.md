@@ -1,4 +1,4 @@
-# Quantitative & Data Science Portfolio
+# Portfolio
 This section of the repository is made up of a collection of projects produced either as part of my undergraduate degree or through self-study. It's made up primarily of iPython Notebooks, but also contains some R scripts, RMarkdown files, and other files relating to the given work (e.g. datasets, PDF files, an so on).
 </br>
 </br>
@@ -53,3 +53,6 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 
 ### Probability
 * [Coin Toss Probability Approximation](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/coin-toss-prob-approx.ipynb) - this program simulates a coin toss experiment with a large sample size, calculates the cumulative probability of a given outcome, and visualises the result over the entirety of the sample.
+
+## Webscraping
+* [Online Database with Dynamic Webpage]() - using the Selenium package to crawl through an indefinite number of pages of an online database and extract text content.
