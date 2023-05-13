@@ -6,65 +6,56 @@ import time
 import csv
 import os
 
-all_rulings = []
+data_list = []
 
-print(os.getcwd())
-#set chromodriver.exe path
-
-service = Service("C:\Program Files (x86)\chromedriver.exe")
+# set chromedriver.exe path
+service = Service("<PATH_TO_CHROMEDRIVER>")
 driver = webdriver.Chrome(service=service)
-
-#PATH = "C:\Program Files (x86)\chromedriver.exe"
-#driver = webdriver.Chrome(PATH)
 
 for page in range(2124):
     try:
-        URL = f"https://rulings.cbp.gov/search?term=0%20OR%201%20OR%202%20OR%203%20OR%204%20OR%205%20OR%206%20OR%207%20OR%208%20" \
-            "OR%209%20OR%2010%20OR%2011%20OR%2012%20OR%2013%20OR%2014%20OR%2015%20OR%2016%20OR%2017%20OR%2018%20OR%2019%20OR%" \
-            f"2020%20OR%2021%20OR%2022&collection=ALL&sortBy=RELEVANCE&pageSize=100&page={page}&showDetail=true"
+        URL = f"<PLACEHOLDER_URL>{page}<PLACEHOLDER_URL>"
 
-        #implicit wait
+        # implicit wait
         driver.implicitly_wait(0.5)
-        #maximize browser
+        # maximize browser
         driver.maximize_window()
-        #launch URL
+        # launch URL
         driver.get(URL)
 
         clicked_links = []
 
-        #loop through relevant elements
-        for btn in driver.find_elements(By.PARTIAL_LINK_TEXT, 'NY'): #find all rulings
+        # loop through relevant elements
+        for btn in driver.find_elements(By.PARTIAL_LINK_TEXT, '<PLACEHOLDER_TEXT>'): #find all rulings
             link_text = btn.text
             try:
                 if link_text not in clicked_links:
                     btn.click() # click hyperlink
-                    content = driver.find_elements(By.ID, "ruling-detail-content")
+                    content = driver.find_elements(By.ID, "<PLACEHOLDER_ID>")
                     for ruling in content:
-                        all_rulings.append(ruling.text)
+                        data_list.append(ruling.text)
             except:
                 pass
     except:
         pass
-#close browser
+# close browser
 driver.quit()
 
-
-
-print(type(all_rulings))
-for s in all_rulings:
+print(type(data_list))
+for s in data_list:
     print(type(s))
 
-all_rulings = [s.splitlines() for s in all_rulings]
+data_list = [s.splitlines() for s in data_list]
 
-all_rulings = [" ".join(s) for s in all_rulings]
+data_list = [" ".join(s) for s in data_list]
 
-all_rulings = list(dict.fromkeys(all_rulings))
+data_list = list(dict.fromkeys(data_list))
 
-print(len(all_rulings))
+print(len(data_list))
 
-with open('all_rulings.csv', 'w', newline='') as file:
+with open('<PLACEHOLDER_FILENAME>.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    for ruling in all_rulings:
+    for ruling in data_list:
         try:
             writer.writerow([ruling])
         except:
