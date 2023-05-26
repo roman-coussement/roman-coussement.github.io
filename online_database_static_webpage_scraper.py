@@ -12,7 +12,7 @@ for n in range(2, 249):
 
     try:
         # URL of the website
-        url = f"https://www.tax.service.gov.uk/search-for-advance-tariff-rulings/search?page={n}"
+        url = f"https://www.website.com/page={n}"
 
         # Send a GET request to the website
         response = requests.get(url)
@@ -24,7 +24,7 @@ for n in range(2, 249):
         soup = BeautifulSoup(html_content, "html.parser")
 
         # Find all list items with the role 'listitem'
-        list_items = soup.find_all("li", attrs={"role": "listitem", "class": "border-bottom"})
+        list_items = soup.find_all("li", attrs={"role": "listitem", "class": "generic-class"})
 
         # Loop over each list item
         for item in list_items:
