@@ -56,3 +56,4 @@ It's purpose is to demonstrate a well-rounded knowledge of some of the fundament
 
 ## Webscraping
 * [Online Database with Dynamic Webpage](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/online_database_dynamic_webpage_scraper.py) - using the Selenium package to crawl through an indefinite number of pages of an online database and extract text content.
+* * [Online Database with Static Webpage](https://github.com/roman-coussement/roman-coussement.github.io/blob/main/online_database_dynamic_webpage_scraper.py) - using the BeautifulSoup package to crawl through an indefinite number of pages of an online database and extract text content.
